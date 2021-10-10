@@ -1,11 +1,16 @@
+import markdown
+
+md = markdown.Markdown(extensions=["mdx_google_map"])
+md.convert("[map:Central Paris]")
+
 # bimbadeen.mapping.public
 This is a public repository to share information created by the Scotts Flat RFS bridge pre-incident planning group.
 
 # Location
 The area covered by this content & Pre-Incident Plan is located east of the town of Singleton in the Hunter Valley, New South Wales. The two prominent ridgelines - Bimbadeen ridge and Lambs Valley western ridge, can be seen on Map Projection: GDA 1994 MGA Zone 56.
 
-# Google maps:
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15994.358039782463!2d151.40804705415354!3d-32.568865943027696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b7353e04e1165b9%3A0x7b147980b11d243a!2sBimbadeen%20Rd%2C%20Stanhope%20NSW%202335!5e0!3m2!1sen!2sau!4v1633834529715!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe> 
+# Google Maps:
+[https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15994.358039782463!2d151.40804705415354!3d-32.568865943027696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b7353e04e1165b9%3A0x7b147980b11d243a!2sBimbadeen%20Rd%2C%20Stanhope%20NSW%202335!5e0!3m2!1sen!2sau!4v1633834529715!5m2!1sen!2sau](Google Maps area)
 
 # The Landscape.
 The Bimbadeen ridge runs for 6 km in a southwest to northeast direction, whilst the Lambs Valley ridge runs for 6 km in a north south direction. The ridges rise sharply from 50m elevation to over 400m. 
