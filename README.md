@@ -5,7 +5,7 @@ This is a public repository to share information created by the Scotts Flat RFS 
 The area covered by this content & Pre-Incident Plan is located east of the town of Singleton in the Hunter Valley, New South Wales. The two prominent ridgelines - Bimbadeen ridge and Lambs Valley western ridge, can be seen on Map Projection: GDA 1994 MGA Zone 56.
 
 # Google Maps:
-[Google Maps area](https://goo.gl/maps/7CzwKVFC2tSAuvxo6)
+[Google Maps list of tracks on Bimbadeen Ridge](https://www.google.com/maps/d/u/0/edit?mid=1jc8bZtTGvUA-mGZ269ffbsv4mA8LGsYQ&ll=-32.53269853694478%2C151.43975000000003&z=13)
 
 # The Landscape.
 The Bimbadeen ridge runs for 6 km in a southwest to northeast direction, whilst the Lambs Valley ridge runs for 6 km in a north south direction. The ridges rise sharply from 50m elevation to over 400m. 
